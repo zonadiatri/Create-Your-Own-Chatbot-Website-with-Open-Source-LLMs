@@ -7,7 +7,7 @@ Author :
 - Vicky Kuo
 - Efkan Serhat Goktepe
 
-Contributors
+Contributors :
 - Bradley Steinfeld
 - Justin Correia
 - Neha Ali
